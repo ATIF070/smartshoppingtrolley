@@ -1,4 +1,3 @@
-# smartshoppingtrolley
 #making a biilling system
 def cumulative(inp,d,sp,sw):
     print(f"{d[inp][0]} Product added")
